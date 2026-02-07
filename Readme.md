@@ -164,6 +164,6 @@ No build tools or dependencies required.
 
 ## Screenshots
 
-![Screenshot of the website](screenshots/Screenshot1.png)
+![Screenshot of the website](screenshots/screenshot.png)
 
 
